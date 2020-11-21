@@ -14,8 +14,8 @@ def div(a, b):
     return a / b
 
 
-def square(a):
-    return a ** 2
+def power(a, b):
+    return a ** b
 
 
 if __name__ == "__main__":
@@ -23,4 +23,4 @@ if __name__ == "__main__":
     print(sub(1, 2))
     print(mul(1, 2))
     print(div(1, 2))
-    print(square(2))
+    print(power(2, 3))
