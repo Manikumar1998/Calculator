@@ -14,13 +14,12 @@ def div(a, b):
     return a / b
 
 
-<<<<<<< HEAD
 def power(a, b):
     return a ** b
-=======
-def square(a):
-    return a * a
->>>>>>> feature2
+
+
+def square_root(a):
+    return a ** 0.5
 
 
 if __name__ == "__main__":
