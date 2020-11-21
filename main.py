@@ -15,7 +15,7 @@ def div(a, b):
 
 
 def square(a):
-    return a ** 2
+    return a * a
 
 
 if __name__ == "__main__":
